@@ -1,0 +1,9 @@
+# Q-Talk (Quantum-Inspired Secure P2P Chat)
+# Python Requirements
+
+# Cryptographic primitives (AES, CBC mode, padding)
+pycryptodome>=3.20.0
+
+# Standard Library Notes:
+# - tkinter: Built-in with Python (GUI interface)
+# - socket, threading, struct, hashlib, hmac, secrets, base64: Built-in Python standard library
